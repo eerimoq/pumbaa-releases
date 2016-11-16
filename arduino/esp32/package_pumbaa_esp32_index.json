@@ -17,7 +17,7 @@
                     "help": {
                         "online": "https://pumbaa-os.readthedocs.org"
                     },
-                    "url": "https://github.com/eerimoq/pumbaa-release/raw/master/arduino/esp32/pumbaa-arduino-esp32-2.0.0.zip",
+                    "url": "https://github.com/eerimoq/pumbaa-releases/raw/master/arduino/esp32/pumbaa-arduino-esp32-2.0.0.zip",
                     "archiveFileName": "pumbaa-arduino-esp32-2.0.0.zip",
                     "checksum": "SHA-256:b2dd61ab0f0daad5240f67ad84a009ad4bc318e18b9ed39bc714a6200640db53",
                     "size": "11952179",
